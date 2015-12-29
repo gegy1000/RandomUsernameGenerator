@@ -2,10 +2,8 @@ aardvark
 aback
 abandoned
 abattoir
-abbã©
 abbess
 abbot
-abc
 abdomen
 abduct
 abeam
@@ -279,7 +277,6 @@ agriculture
 agronomy
 aground
 ague
-aha
 ahead
 ahem
 ahoy
@@ -289,7 +286,6 @@ ailing
 ailment
 aim
 aimless
-ain't
 air
 airbase
 airborne
@@ -336,7 +332,6 @@ alcoholic
 alcoholism
 alcove
 alder
-ale
 aleatory
 alehouse
 alexandrine
@@ -737,7 +732,6 @@ arduous
 are
 area
 arena
-aren't
 arãªte
 argon
 argot
@@ -829,7 +823,6 @@ askance
 askew
 aslant
 asleep
-asp
 asparagus
 aspect
 aspen
@@ -943,7 +936,6 @@ augmentative
 augur
 august
 augustan
-auk
 aunt
 aural
 aureate
@@ -981,7 +973,6 @@ available
 avalanche
 avarice
 avatar
-ave
 aversion
 avert
 avesta
@@ -1019,7 +1010,6 @@ aye
 azalea
 azimuth
 aztec
-baa
 babe
 babel
 baccalaureate
@@ -1069,7 +1059,6 @@ bagatelle
 baggage
 bagpipe
 baguette
-bah
 bail
 bailiff
 bailiwick
@@ -1138,7 +1127,6 @@ bantam
 bantamweight
 bantustan
 baobab
-bap
 baptist
 bar
 barathea
@@ -1180,8 +1168,6 @@ baroque
 barrack
 barrage
 barratry
-barre
-barrã©
 barrel
 barrier
 barring
@@ -1328,7 +1314,6 @@ bisque
 bister
 bistre
 bit
-bitch
 bitter
 bittern
 bitumen
@@ -1977,7 +1962,6 @@ canonical
 canonist
 canst
 cant
-can't
 cantabile
 cantabrigian
 cantaloup
@@ -3186,7 +3170,6 @@ couch
 cougar
 cough
 could
-couldn't
 coulomb
 coulter
 council
@@ -3942,7 +3925,6 @@ did
 didactic
 diddums
 didgeridoo
-didn't
 die
 dielectric
 dieresis
@@ -4177,7 +4159,6 @@ dixieland
 djellaba
 doer
 does
-doesn't
 doff
 doge
 dogfight
@@ -4215,7 +4196,6 @@ donjon
 donna
 donnish
 donor
-don't
 donut
 doom
 doomsday
@@ -5781,7 +5761,6 @@ fuehrer
 fug
 fugitive
 fugue
-fã¼hrer
 full
 fuller
 fullness
@@ -6048,10 +6027,8 @@ girt
 girth
 gist
 git
-gã®te
 gizmo
 gizzard
-glacã©
 glacial
 glaciated
 glacier
@@ -6124,7 +6101,6 @@ goat
 goatee
 goatherd
 goatskin
-gob
 gobbet
 gobbledegook
 gobsmacked
@@ -13204,7 +13180,6 @@ sewage
 sewerage
 sewing
 sewn
-sex
 sexagesima
 sexism
 sexless
@@ -13252,7 +13227,6 @@ shaver
 shavian
 shaving
 shawl
-s/he
 sheaf
 sheaves
 shebeen
@@ -13280,7 +13254,6 @@ shemozzle
 shepherd
 sherbet
 sherd
-she's
 shew
 shiatsu
 shied
@@ -13349,7 +13322,6 @@ shot
 shotgun
 should
 shoulder
-shouldn't
 shout
 shovelboard
 show
@@ -14218,7 +14190,6 @@ stress
 stressful
 stretcher
 strew
-'strewth
 stria
 stricken
 stricture
@@ -14252,7 +14223,6 @@ structuralism
 strudel
 strumpet
 strung
-'struth
 strychnine
 stubble
 stubborn
@@ -14908,10 +14878,6 @@ thesis
 thespian
 theta
 they
-they'd
-they'll
-they're
-they've
 thiamine
 thick
 thicken
@@ -14938,7 +14904,6 @@ this
 thistle
 thistly
 thither
-tho'
 thong
 thorium
 thorough
@@ -14971,7 +14936,6 @@ thriftless
 thrill
 thriller
 thrips
-thro'
 throat
 throe
 throng
@@ -15071,7 +15035,6 @@ tire
 tired
 tireless
 tiresome
-'tis
 tit
 titan
 titanic
@@ -15183,7 +15146,6 @@ totality
 totalizator
 totally
 totem
-t'other
 totter
 touch
 touchdown
@@ -15471,7 +15433,6 @@ tutu
 twaddle
 twain
 twang
-'twas
 twat
 tweak
 twee
@@ -15482,26 +15443,22 @@ twelfth
 twelve
 twelvefold
 twelvemonth
-'twere
 twerp
 twice
 twig
 twilight
 twilit
-'twill
 twinge
 twirl
 twirp
 twister
 twit
 twitter
-'twixt
 two
 twofold
 twopence
 twopenny
 twosome
-'twould
 tycoon
 tying
 tyke
@@ -16761,7 +16718,6 @@ washerwoman
 washing
 washroom
 washstand
-wasn't
 wasp
 waspish
 wastage
@@ -16817,7 +16773,6 @@ weatherman
 weatherproof
 web
 weber
-we'd
 wedding
 wedgwood
 wedlock
@@ -16841,7 +16796,6 @@ welch
 weld
 welkin
 well
-we'll
 wellington
 wellnigh
 welsh
@@ -16854,8 +16808,6 @@ wend
 went
 wept
 were
-we're
-weren't
 wesleyan
 west
 westbound
@@ -16865,7 +16817,6 @@ westerner
 westward
 wether
 wetland
-we've
 whack
 whacking
 whalebone
@@ -16935,7 +16886,6 @@ whitsun
 whitsuntide
 who
 whoa
-who'd
 whodunit
 whoever
 whole
@@ -17077,7 +17027,6 @@ wonderland
 wonderment
 wondrous
 wont
-won't
 wonted
 woo
 woodbine
@@ -17146,7 +17095,6 @@ worth
 worthless
 worthwhile
 would
-wouldn't
 wound
 wove
 woven
@@ -17246,16 +17194,12 @@ yore
 yorker
 yorkist
 you
-you'd
-you'll
 young
 youngster
 your
-you're
 yours
 yourself
 youthful
-you've
 yowl
 ytterbium
 yttrium
@@ -17287,7 +17231,6 @@ zion
 zipper
 zircon
 zirconium
-zit
 zither
 zodiac
 zombie
