@@ -55,7 +55,7 @@ public class RandomUsernameGenerator
 
     public static String generateRandomUsername(Random random)
     {
-        String firstWord = getRandomStartWord(random);
+        String firstWord = getRandomWord(random);
 
         int lastConsanantIndex;
 
@@ -99,21 +99,6 @@ public class RandomUsernameGenerator
         }
 
         return null;
-    }
-
-    private static String getRandomStartWord(Random random)
-    {
-        String word = getRandomWord(random);
-
-        boolean cont = true;
-
-        while (cont)
-        {
-            word = getRandomWord(random);
-            cont = isVowel(word.charAt(word.length() - 1));
-        }
-
-        return word;
     }
 
     private static String getRandomWord(Random random)
