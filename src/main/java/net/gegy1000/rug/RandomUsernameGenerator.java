@@ -25,7 +25,7 @@ public class RandomUsernameGenerator
         in.close();
 
         int amount = 5000;
-		
+
         Random rand = new Random();
 
         for (int i = 0; i < amount; i++)

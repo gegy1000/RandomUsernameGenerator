@@ -732,7 +732,6 @@ arduous
 are
 area
 arena
-arãªte
 argon
 argot
 argument
@@ -899,7 +898,6 @@ atonal
 atrocious
 atropine
 attach
-attachã©
 attachment
 attack
 attain
@@ -1534,7 +1532,6 @@ bottleneck
 bottom
 bottomless
 botulism
-bouclã©
 boudoir
 bouffant
 bougainvillaea
@@ -1599,7 +1596,6 @@ brandish
 brass
 brasserie
 brassica
-brassiã¨re
 bravado
 bravura
 brawl
@@ -1931,7 +1927,6 @@ camshaft
 can
 canaille
 canal
-canapã©
 canard
 cancer
 candela
@@ -1957,7 +1952,6 @@ cannibal
 cannon
 cannot
 canon
-caã±on
 canonical
 canonist
 canst
@@ -2499,7 +2493,6 @@ classmate
 classroom
 clatter
 clause
-clause 
 clavichord
 claw
 clay
@@ -2521,7 +2514,6 @@ cleric
 clerical
 clerihew
 clerk
-clichã©
 click
 client
 clientele
@@ -2759,7 +2751,6 @@ communicant
 communication
 communicative
 communion
-communiquã©
 communism
 communist
 commuter
@@ -2953,7 +2944,6 @@ consist
 consistent
 consolation
 console
-consommã©
 consonance
 consonant
 consort
@@ -3144,7 +3134,6 @@ corrosion
 corsage
 corsair
 corselette
-cortã¨ge
 corundum
 cos
 cosh
@@ -3196,7 +3185,6 @@ countless
 countrified
 countryside
 coupe
-coupã©
 couplet
 coupling
 coupon
@@ -3268,7 +3256,6 @@ creation
 creative
 creator
 creature
-crã¨che
 credence
 credential
 credibility
@@ -3280,7 +3267,6 @@ credulous
 creed
 creel
 creep
-crã¨me
 creole
 crept
 crepuscular
@@ -3342,7 +3328,6 @@ crotchet
 crotchety
 crouch
 croup
-croã»ton
 crow
 crowbar
 crowd
@@ -3354,7 +3339,6 @@ cruciferous
 crucifix
 crucifixion
 crude
-cruditã©s
 cruiserweight
 crumb
 crumbs
@@ -3416,7 +3400,6 @@ curate
 curative
 curb
 curd
-curã©
 curfew
 curia
 curie
@@ -3452,7 +3435,6 @@ cutis
 cutlass
 cutler
 cutting
-cuvã©e
 cwm
 cyanide
 cyanogen
@@ -3490,7 +3472,6 @@ daemon
 daft
 dagger
 daguerreotype
-dã¡il
 dairying
 dairymaid
 dairyman
@@ -3569,7 +3550,6 @@ death
 deathbed
 deathblow
 debacle
-dã©bã¢cle
 debark
 debatable
 debauch
@@ -3583,9 +3563,7 @@ debris
 debtor
 debunk
 debut
-dã©but
 debutante
-dã©butante
 decadence
 decaffeinated
 decahedron
@@ -3618,11 +3596,8 @@ declension
 declination
 declutch
 decoction
-dã©colletage
-dã©colletã©
 decompress
 decongestant
-dã©cor
 decoration
 decorative
 decorator
@@ -3799,7 +3774,6 @@ deselect
 desert
 desertification
 deserving
-dã©shabillã©
 design
 designation
 designedly
@@ -3835,7 +3809,6 @@ detain
 detainee
 detection
 detective
-dã©tente
 detention
 detergent
 determinant
@@ -3896,7 +3869,6 @@ dialectics
 dialog
 dialogue
 dialysis
-diamantã©
 diametrical
 dianthus
 diaper
@@ -4120,7 +4092,6 @@ distiller
 distinct
 distinction
 distinctive
-distinguã©
 distinguished
 distraction
 distraint
@@ -4461,9 +4432,7 @@ ecclesiastical
 echoic
 echolocation
 echt
-ã‰clair
 eclampsia
-ã‰clat
 eclectic
 ecliptic
 eclogue
@@ -4527,7 +4496,6 @@ eisteddfod
 either
 ejector
 eke
-ã‰lan
 elastic
 elasticated
 elder
@@ -4577,8 +4545,6 @@ elf
 elfin
 eligible
 elision
-ã‰lite
-ã‰litism
 elixir
 elizabethan
 ell
@@ -4597,7 +4563,6 @@ elver
 elves
 elvish
 elysium
-'em
 embalm
 embankment
 embark
@@ -4619,7 +4584,6 @@ emeritus
 emery
 emetic
 emigrant
-ã‰migrã©
 eminence
 eminent
 emir
@@ -4777,13 +4741,10 @@ entirely
 entomb
 entomology
 entourage
-entr'acte
 entrails
 entrance
 entrant
-entrã©e
 entrench
-entrepã´t
 entrepreneur
 entrust
 equipage
@@ -4917,7 +4878,6 @@ ethylene
 etiology
 etiquette
 etruscan
-ã‰tude
 eucharist
 eunuch
 euphemism
@@ -5051,7 +5011,6 @@ explosive
 exponent
 exponential
 export
-exposã©
 exposition
 exposure
 expression
@@ -5063,7 +5022,6 @@ expulsion
 fable
 fabled
 fabulous
-faã§ade
 faceless
 facer
 facet
@@ -5251,7 +5209,6 @@ fever
 feverfew
 feverish
 few
-fiancã©
 fiat
 fiber
 fiberboard
@@ -5378,7 +5335,6 @@ flagstaff
 flagstone
 flail
 flair
-flambã©
 flamboyant
 flammable
 flange
@@ -5493,7 +5449,6 @@ flyweight
 flywheel
 foal
 focal
-fo'c's'le
 fodder
 foe
 foetid
@@ -5678,7 +5633,6 @@ frankenstein
 frankfurter
 frankincense
 frantic
-frappã©
 fraternal
 fratricide
 fraudulent
@@ -6309,7 +6263,6 @@ gruesome
 gruff
 grummet
 grunt
-gruyã¨re
 gryphon
 guarantor
 guarded
@@ -6387,8 +6340,6 @@ habitable
 habitat
 habitation
 habitual
-habituã©
-hã¡cek
 hachures
 hack
 hacker
@@ -6400,7 +6351,6 @@ haddock
 hades
 hadj
 hadji
-hadn't
 hafnium
 haft
 hag
@@ -6443,7 +6393,6 @@ hallmark
 hallo
 halloo
 hallow
-hallowe'en
 hallucination
 hallucinogen
 halm
@@ -6539,7 +6488,6 @@ has
 hash
 hashish
 haslet
-hasn't
 hasp
 hassock
 hasten
@@ -6563,7 +6511,6 @@ haunt
 haunting
 hauteur
 haven
-haven't
 haver
 havoc
 haw
@@ -6611,7 +6558,6 @@ heck
 hectic
 hectogram
 hector
-he'd
 hedgerow
 hedonism
 heed
@@ -6633,7 +6579,6 @@ heliograph
 heliport
 helix
 hell
-he'll
 hellebore
 hellene
 hellenism
@@ -6705,7 +6650,6 @@ herr
 hers
 herself
 hertz
-he's
 hesitant
 hessian
 heterogeneous
@@ -7107,7 +7051,6 @@ icon
 iconoclast
 iconography
 icosahedron
-i'd
 idea
 ideal
 idealism
@@ -7136,7 +7079,6 @@ ikon
 ileum
 iliac
 ilk
-i'll
 illegible
 illegitimate
 illicit
@@ -7147,7 +7089,6 @@ illusionist
 illustration
 illustrative
 illustrious
-i'm
 imagery
 imaginary
 imagination
@@ -7500,7 +7441,6 @@ infuriate
 infusible
 infusion
 ingenious
-ingã©nue
 ingenuity
 ingest
 inglenook
@@ -7815,7 +7755,6 @@ islam
 island
 islander
 islet
-isn't
 isobar
 isochronous
 isolationism
@@ -7826,13 +7765,9 @@ italian
 italianate
 italic
 itch
-it'd
 item
-it'll
 its
-it's
 itself
-i've
 jabber
 jabot
 jackal
@@ -7846,7 +7781,6 @@ jacobite
 jacquard
 jade
 jaded
-j'adoube
 jag
 jagged
 jail
@@ -7864,7 +7798,6 @@ janitor
 japanese
 japonica
 jar
-jardiniã¨re
 jargon
 jasmine
 jasper
@@ -8136,7 +8069,6 @@ krummhorn
 krypton
 kudos
 kufic
-kã¼mmel
 kurchatovium
 kyle
 labial
@@ -8189,7 +8121,6 @@ lambada
 lambda
 lambent
 lambswool
-lamã©
 lament
 lamentable
 lamentation
@@ -8711,7 +8642,6 @@ lyric
 lyrical
 lyricism
 lyricist
-ma'am
 macabre
 macadamia
 macaroni
@@ -8719,7 +8649,6 @@ macaroon
 mccarthyism
 mccoy
 mace
-macã©doine
 mach
 machete
 machiavellian
@@ -8728,7 +8657,6 @@ macho
 macintosh
 mack
 mackintosh
-macramã©
 macrobiotic
 macroeconomics
 macron
@@ -8834,7 +8762,6 @@ mammoth
 management
 manager
 manageress
-maã±ana
 mancunian
 mandala
 mandamus
@@ -8865,7 +8792,6 @@ manner
 mannerism
 mannish
 manpower
-manquã©
 mansard
 manse
 manservant
@@ -8977,13 +8903,11 @@ matchwood
 mater
 materialism
 materially
-matã©riel
 maternal
 maternity
 mathematical
 mathematics
 matinee
-matinã©e
 matins
 matriarch
 matrices
@@ -9014,7 +8938,6 @@ may
 maybe
 mayflower
 mayfly
-mayn't
 mayor
 mayoress
 maypole
@@ -9083,12 +9006,10 @@ meiosis
 melamine
 melancholia
 melancholy
-mã©lange
 melanin
 melanoma
 meld
 melee
-mãªlã©e
 mellifluous
 melodeon
 melodic
@@ -9104,7 +9025,6 @@ memorabilia
 memorable
 memorial
 men
-mã©nage
 menagerie
 mendelevium
 mendelian
@@ -9141,7 +9061,6 @@ meridional
 meritorious
 mermaid
 merrymaking
-mã©salliance
 mescal
 mescaline
 mesdames
@@ -9180,7 +9099,6 @@ methodical
 methought
 methyl
 meticulous
-mã©tier
 metre
 metric
 metrical
@@ -9236,7 +9154,6 @@ midwinter
 mien
 miff
 might
-mightn't
 migrant
 milage
 milch
@@ -9398,7 +9315,6 @@ mohair
 mohammedan
 mohican
 moire
-moirã©
 moist
 moisten
 moisture
@@ -9644,7 +9560,6 @@ must
 mustache
 mustang
 muster
-mustn't
 mutable
 mutant
 mutation
@@ -9672,7 +9587,6 @@ naevus
 naff
 nag
 nail
-naã¯ve
 naked
 nameless
 namely
@@ -9734,15 +9648,12 @@ necktie
 necrophilia
 necrosis
 nectar
-nee
-nã©e
 need
 needful
 needless
 needlewoman
 needlework
 needs
-ne'er
 nefarious
 negation
 negativism
@@ -9904,7 +9815,6 @@ northerner
 northman
 northward
 norwegian
-nor'wester
 nosebag
 noseband
 nosebleed
@@ -9924,7 +9834,6 @@ noticeable
 notifiable
 notion
 notional
-notwithstanding
 nought
 noun
 nourish
@@ -9943,7 +9852,6 @@ nowhere
 nowt
 noxious
 nozzle
-n't
 nth
 nuance
 nub
@@ -10042,7 +9950,6 @@ occupier
 occurrence
 ocean
 oceanography
-o'clock
 october
 octogenarian
 ocular
@@ -10058,9 +9965,7 @@ odor
 odoriferous
 odour
 oedema
-o'er
 oestrus
-å’uvre
 off
 offal
 offbeat
@@ -10256,7 +10161,6 @@ otiose
 oubliette
 ouch
 ought
-oughtn't
 ouija
 ounce
 our
@@ -10303,7 +10207,6 @@ outpost
 outpouring
 outrageous
 outrank
-outrã©
 outrider
 outrigger
 outright
@@ -10640,7 +10543,6 @@ patchboard
 patchouli
 patchwork
 pate
-pã¢tã©
 patella
 paten
 patent
@@ -10967,7 +10869,6 @@ piebald
 piecemeal
 piecrust
 pied
-pietã 
 pietism
 piffling
 piggish
@@ -11595,7 +11496,6 @@ protection
 protective
 protector
 protectorate
-protã©gã©
 protein
 proterozoic
 protest
@@ -11605,7 +11505,6 @@ proton
 protractor
 protuberant
 provenance
-provenã§al
 provender
 proverb
 proverbial
@@ -12360,7 +12259,6 @@ restrict
 restrictive
 result
 resultant
-rã©sumã©
 resumption
 resurrection
 retail
@@ -12397,7 +12295,6 @@ retrogress
 retrorocket
 retrospection
 retrospective
-retroussã©
 retrovirus
 retsina
 returnee
@@ -12505,7 +12402,6 @@ ripsaw
 riser
 rising
 risk
-risquã©
 rissole
 rite
 ritual
@@ -12558,7 +12454,6 @@ romanticist
 romp
 rondeau
 rondel
-rã¶ntgen
 roofing
 rooftop
 rook
@@ -12571,7 +12466,6 @@ roquefort
 rorqual
 rosaceous
 rose
-rosã©
 rosebowl
 rosebud
 rosemary
@@ -12588,7 +12482,6 @@ rotter
 rotund
 rotunda
 rouble
-rouã©
 roughage
 roughen
 roughly
@@ -12807,7 +12700,6 @@ sauerkraut
 sauna
 saunter
 saurian
-sautã©
 sauternes
 savannah
 savant
@@ -13209,7 +13101,6 @@ shamefaced
 shameful
 shameless
 shamrock
-shan't
 shantung
 shapeless
 shard
@@ -13230,7 +13121,6 @@ shawl
 sheaf
 sheaves
 shebeen
-she'd
 sheen
 sheepdog
 sheepfold
@@ -13244,7 +13134,6 @@ sheikh
 sheila
 shekel
 shelf
-she'll
 shelled
 shellfish
 shelta
@@ -13682,7 +13571,6 @@ softwood
 softy
 soh
 soil
-soirã©e
 sojourn
 solan
 solar
@@ -13765,7 +13653,6 @@ sound
 soundbox
 sounding
 soundproof
-soupã§on
 sour
 source
 soutane
@@ -16533,7 +16420,6 @@ victoriana
 victorious
 victualer
 victualler
-vicuã±a
 vide
 videlicet
 videodisc
